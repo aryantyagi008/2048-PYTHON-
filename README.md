@@ -1,4 +1,4 @@
-# 2048-PYTHON-
+# SNAKE GAME-PYTHON-
 This Python code uses the Pygame library to create a classic Snake game. 
 
 1. Initialization: Sets up Pygame, defines constants for game parameters (speed, sizes, screen dimensions), and initializes screen and fonts.
